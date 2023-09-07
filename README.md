@@ -1,14 +1,17 @@
-### Hello guys! Me chamo Natália Luiza 🤞
+### Hello guys! Welcome to the my repository 🤞
 
-- 🎓 Engª Civil migrando para área de dados;
-- 💼 Atuo como Cientista de Dados
-- 📖 Estudando engenharia de dados com Hadoop e Spark
+- 🎓 Civil Engineer migrating to the data area;
+- 💼 I work as a Data Scientist;
+- 📖 Currently Studying Data Engineering with Hadoop and Spark.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunatalialuiza&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
+  <img align="center" alt="Nat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Nat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Nat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg">
+  <img align="center" alt="Nat-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-line-wordmark.svg">
 </div>
   
   ##
