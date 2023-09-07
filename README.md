@@ -1,5 +1,6 @@
 ### Hello guys! Welcome to the my repository 🤞
 
+- 🚨 Repository under construction; 
 - 🎓 Civil Engineer migrating to the data area;
 - 💼 I work as a Data Scientist;
 - 📖 Currently Studying Data Engineering with Hadoop and Spark.
