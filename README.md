@@ -1,9 +1,10 @@
 ### Hello guys! Welcome to the my repository 🤞
 
 - 🚨 Repositório em construção; 
-- 🎓 Formada em Engenharia Civil migrando para área de Dados;
-- 💼 Trabalho atualmente como Freelancer criando painéis de BI;
-- 📖 Atualmente cursando o Bootcamp *Data Analytics com Power BI* da [DIO](https://www.dio.me/bootcamp).
+- 🎓 Formada em Engenharia Civil;
+- 💻 Atuando há dois anos com análise de dados e BI.
+- 💼 Trabalho atualmente como Autônomo criando painéis de BI;
+- 📖 Atualmente cursando o Bootcamp *Engenharia de Dados com Python* da [DIO](https://www.dio.me/bootcamp).
 
 
 
